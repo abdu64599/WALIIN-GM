@@ -1,6 +1,7 @@
 {
   "name": "waliin-gm",
   "version": "3.0.0",
+  "license": "MIT",
   "description": "Waliin-GM Chat, Voice, Video, Club and Calling App",
   "main": "server.js",
   "scripts": {
